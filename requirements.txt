@@ -1,0 +1,8 @@
+tensorflow
+keras
+scikit-image
+opencv-python
+h5py
+tqdm
+pandas
+numpy
